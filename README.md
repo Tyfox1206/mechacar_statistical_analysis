@@ -26,4 +26,20 @@ the total variance is 62 which is less then 100 so the total meats the condition
 
 ## T-Tests on Suspension Coils
 
+All lots 
+
+![all lots](https://github.com/Tyfox1206/mechacar_statistical_analysis/blob/main/images/all_lots.PNG)
+
+Lot 1
+
+![lot 1](https://github.com/Tyfox1206/mechacar_statistical_analysis/blob/main/images/lot1.PNG)
+
+Lot 2
+
+![lot 2](https://github.com/Tyfox1206/mechacar_statistical_analysis/blob/main/images/lot2.PNG)
+
+Lot 3
+
+![lot 3](https://github.com/Tyfox1206/mechacar_statistical_analysis/blob/main/images/lot3.PNG)
+
 For all the lots the p-value is above the normal significance level so the two means are similar. Likewise lots 1 and 2 are also above the normal significance level so the means are similar. only lot 3 is below the normal significance level so the means are different. 
