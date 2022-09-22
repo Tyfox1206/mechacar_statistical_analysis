@@ -43,3 +43,17 @@ Lot 3
 ![lot 3](https://github.com/Tyfox1206/mechacar_statistical_analysis/blob/main/images/lot3.PNG)
 
 For all the lots the p-value is above the normal significance level so the two means are similar. Likewise lots 1 and 2 are also above the normal significance level so the means are similar. only lot 3 is below the normal significance level so the means are different. 
+
+## Study Design: MechaCar vs Competition
+
+I think a good study design to completment this study is to do a study on how the horsepower and torque the mechacar has compared to the competition. As these two mectrics are important when it comes to hauling items with vehicles.
+
+- What metric or metrics are you going to test?
+  * the metrics needed are the amount of horsepower and torque from MechaCar vehicles and competitor vehicles used for hauling items.
+- What is the null hypothesis or alternative hypothesis?
+  * MechaCar has vehicles with the same or more horsepower and torque as leading competitors. alternative MechaCar does not met the standards
+- What statistical test would you use to test the hypothesis? And why?
+  * i would use t-tests  to compare the data setting and find which hypothesis is true. 
+- What data is needed to run the statistical test?
+  * would need data from the competitors vehicles and MechaCar vehicles while they vehicles are under load. 
+
