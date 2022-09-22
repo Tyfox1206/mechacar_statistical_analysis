@@ -14,9 +14,11 @@ yes the r squared is 0.7149, this shows that dataset is effective.
 
 ## Summary Statistics on Suspension Coils
 ![total summary](https://github.com/Tyfox1206/mechacar_statistical_analysis/blob/main/images/total_summary.PNG)
+
 shows mean, median, variance, and SD of all the lots.
 
 ![lot summary](https://github.com/Tyfox1206/mechacar_statistical_analysis/blob/main/images/lot_summary.PNG)
+
 break down of each lot showing mean, median, variance, and SD of all the lots
 
 The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
